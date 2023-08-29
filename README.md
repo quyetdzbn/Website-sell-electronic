@@ -20,6 +20,7 @@ hàng và đơn hàng.
 
 3. Các chức năng chính
         − Chức năng của khách hàng:
+   
             ● Đăng nhập / Đăng ký - Đăng Xuất
             
             ● Xem danh sách sản phẩm
