@@ -1,0 +1,142 @@
+19-Jun-2022 06:44:24.434 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 06:44:24.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\logging.properties
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-DFUDKLMQ
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2022 06:44:24.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Jun-2022 06:44:24.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 06:44:24.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 06:44:24.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\temp
+19-Jun-2022 06:44:24.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx512M
+19-Jun-2022 06:44:24.438 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.32] using APR version [1.7.0].
+19-Jun-2022 06:44:24.537 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+19-Jun-2022 06:44:24.537 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+19-Jun-2022 06:44:24.547 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1n  15 Mar 2022]
+19-Jun-2022 06:44:24.586 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 06:44:24.614 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 494 ms
+19-Jun-2022 06:44:24.671 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Jun-2022 06:44:24.671 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+19-Jun-2022 06:44:24.714 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\ROOT.xml]
+19-Jun-2022 06:44:25.882 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 06:44:26.006 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\ROOT.xml] has finished in [1,291] ms
+19-Jun-2022 06:44:26.006 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 06:44:26.451 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 06:44:26.490 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [484] ms
+19-Jun-2022 06:44:26.492 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\docs]
+19-Jun-2022 06:44:26.524 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\docs] has finished in [31] ms
+19-Jun-2022 06:44:26.524 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\examples]
+19-Jun-2022 06:44:27.049 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\examples] has finished in [525] ms
+19-Jun-2022 06:44:27.049 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\host-manager]
+19-Jun-2022 06:44:27.090 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\host-manager] has finished in [41] ms
+19-Jun-2022 06:44:27.090 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\manager]
+19-Jun-2022 06:44:27.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\manager] has finished in [29] ms
+19-Jun-2022 06:44:27.122 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 06:44:27.192 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2576 ms
+19-Jun-2022 07:31:04.485 WARNING [http-nio-8080-exec-7] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [shopLaptop] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+19-Jun-2022 07:31:04.993 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 07:31:05.012 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 07:31:05.168 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:31:05.175 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [163] ms
+19-Jun-2022 07:31:05.178 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shopLaptop]] after start() had already been called. The second call will be ignored.
+19-Jun-2022 07:31:28.383 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shopLaptop] has started
+19-Jun-2022 07:31:28.522 INFO [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:31:28.528 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/shopLaptop] is completed
+19-Jun-2022 07:31:57.554 WARNING [http-nio-8080-exec-5] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [shopLaptop] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+19-Jun-2022 07:31:58.057 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 07:31:58.561 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 07:31:58.567 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 07:31:58.708 INFO [http-nio-8080-exec-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:31:58.715 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [148] ms
+19-Jun-2022 07:31:58.718 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shopLaptop]] after start() had already been called. The second call will be ignored.
+19-Jun-2022 07:33:16.839 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 07:33:16.846 INFO [http-nio-8080-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 07:33:16.978 INFO [http-nio-8080-exec-22] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:33:16.985 INFO [http-nio-8080-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [138] ms
+19-Jun-2022 07:33:16.987 INFO [http-nio-8080-exec-20] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shopLaptop]] after start() had already been called. The second call will be ignored.
+19-Jun-2022 07:39:05.318 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-Jun-2022 07:39:05.319 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 07:39:05.328 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Jun-2022 07:39:05.351 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 07:39:05.364 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 07:39:37.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.78
+19-Jun-2022 07:39:37.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 16:05:28 UTC
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.78.0
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 07:39:37.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\logging.properties
+19-Jun-2022 07:39:37.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-DFUDKLMQ
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\temp
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx512M
+19-Jun-2022 07:39:37.498 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.32] using APR version [1.7.0].
+19-Jun-2022 07:39:37.519 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+19-Jun-2022 07:39:37.519 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+19-Jun-2022 07:39:37.523 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1n  15 Mar 2022]
+19-Jun-2022 07:39:37.547 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 07:39:37.566 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 426 ms
+19-Jun-2022 07:39:37.593 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Jun-2022 07:39:37.593 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.78]
+19-Jun-2022 07:39:37.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\ROOT.xml]
+19-Jun-2022 07:39:38.265 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:39:38.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\ROOT.xml] has finished in [718] ms
+19-Jun-2022 07:39:38.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 07:39:38.504 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:39:38.531 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [212] ms
+19-Jun-2022 07:39:38.532 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\docs]
+19-Jun-2022 07:39:38.552 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\docs] has finished in [19] ms
+19-Jun-2022 07:39:38.552 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\examples]
+19-Jun-2022 07:39:38.838 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\examples] has finished in [286] ms
+19-Jun-2022 07:39:38.838 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\host-manager]
+19-Jun-2022 07:39:38.863 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\host-manager] has finished in [25] ms
+19-Jun-2022 07:39:38.864 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\manager]
+19-Jun-2022 07:39:38.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\webapps\manager] has finished in [36] ms
+19-Jun-2022 07:39:38.902 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 07:39:38.943 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1376 ms
+19-Jun-2022 07:39:46.462 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 07:39:46.475 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 07:39:46.701 INFO [http-nio-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 07:39:46.727 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [251] ms
+19-Jun-2022 07:39:46.731 INFO [http-nio-8080-exec-5] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shopLaptop]] after start() had already been called. The second call will be ignored.
+19-Jun-2022 09:14:33.801 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/shopLaptop]
+19-Jun-2022 09:14:33.816 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml]
+19-Jun-2022 09:14:34.222 INFO [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jun-2022 09:14:34.241 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\New folder-3-ki2\Ltr Web\apache-tomcat-8.5.78\conf\Catalina\localhost\shopLaptop.xml] has finished in [424] ms
+19-Jun-2022 09:14:34.249 INFO [http-nio-8080-exec-20] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/shopLaptop]] after start() had already been called. The second call will be ignored.
+19-Jun-2022 11:20:37.781 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-Jun-2022 11:20:37.782 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 11:20:37.797 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Jun-2022 11:20:37.918 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [shopLaptop] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+19-Jun-2022 11:20:37.928 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Jun-2022 11:20:37.940 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
