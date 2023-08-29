@@ -13,7 +13,7 @@ hàng và đơn hàng.
 ● Backend: Java Servlet
 ● Hệ quản trị cơ sở dữ liệu: Sql Server
 ● Công cụ lập trình: Apache Netbeans IDE
-3. Các chức năng chính
+4. Các chức năng chính
 − Chức năng của khách hàng:
 ● Đăng nhập / Đăng ký - Đăng Xuất
 ● Xem danh sách sản phẩm
