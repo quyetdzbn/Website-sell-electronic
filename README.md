@@ -10,19 +10,32 @@ người quản lý dễ dàng chỉnh sửa giao diện cơ bản, quản lý t
 hàng và đơn hàng.
 2. Các công nghệ sử dụng
 ● Frontend: Html, Css, JavaScript
+
 ● Backend: Java Servlet
+
 ● Hệ quản trị cơ sở dữ liệu: Sql Server
+
 ● Công cụ lập trình: Apache Netbeans IDE
+
 4. Các chức năng chính
 − Chức năng của khách hàng:
 ● Đăng nhập / Đăng ký - Đăng Xuất
+
 ● Xem danh sách sản phẩm
+
 ● Tìm kiếm sản phẩm
+
 ● Xem chi tiết sản phẩm
+
 ● Xem giỏ hàng
+
 ● Đặt hàng
+
 − Chức năng của quản trị viên:
 ● Đăng nhập - Đăng xuất
+
 ● Quản lý danh sách sản phẩm
+
 ● Quản lý khách hàng
+
 ● Quản lý đơn hàng
